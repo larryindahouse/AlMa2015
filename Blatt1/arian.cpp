@@ -37,8 +37,6 @@ int main()         // Beginn Hauptprogramm
         }
     }
 
-    cout << "Das Minimum von " << x << " und " << y << " ist " << ((x<y)?x:y) << endl;
-
     cout << "Aufgabenteil b)" << endl;
     int m,n; 
     cout << "Bitte geben Sie m ein: ";
